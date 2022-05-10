@@ -1,2 +1,3 @@
 # odin-recipes
 Recipes project
+Project to make a basic website.  This will use some formatting such as Strong to bold, emphasize to italicize, <p> to make a new paragraph.  We will also use hyperlinks and insert images.  The commit comment is useful to establish what was done and why.  This is because while you may remember what changes were made in the moment, remembering what was done, or why, days or weeks or months later will be a challenge.
